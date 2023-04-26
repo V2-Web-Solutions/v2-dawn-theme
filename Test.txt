@@ -1,0 +1,6 @@
+Testing for code commit :
+
+Creating fork repository under chirangiv2/v2-dawn-theme
+  - forked from V2-Web-Solutions/v2-dawn-theme
+push changes in chirangiv2/v2-dawn-theme 
+than after merge all changes in main repository (V2-Web-Solutions/v2-dawn-theme)
